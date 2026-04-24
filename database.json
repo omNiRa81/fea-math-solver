@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "theme": "Analyse",
+    "enonce": "\\sigma_{crit} = \\lim_{x \\to 0} \\frac{\\ln(1+x)}{x}",
+    "solution": "1"
+  },
+  {
+    "id": 1,
+    "theme": "Trigonométrie",
+    "enonce": "\\sigma_{crit} = \\lim_{x \\to 0} \\frac{\\sin(x)}{x}",
+    "solution": "1"
+  },
+  {
+    "id": 2,
+    "theme": "Analyse",
+    "enonce": "\\sigma_{crit} = \\lim_{x \\to 0} \\frac{e^x - 1}{x}",
+    "solution": "1"
+  },
+  {
+    "id": 3,
+    "theme": "Développement Limité",
+    "enonce": "\\sigma_{crit} = \\lim_{x \\to 0} \\frac{\\tan(x) - x}{x^3}",
+    "solution": "1/3"
+  },
+  {
+    "id": 4,
+    "theme": "Somme",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{1}{n(n+1)}",
+    "solution": "1"
+  },
+  {
+    "id": 5,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{1} x^2 \\, dx",
+    "solution": "1/3"
+  },
+  {
+    "id": 6,
+    "theme": "Série",
+    "enonce": "S = \\sum_{n=0}^{+\\infty} \\frac{1}{n!}",
+    "solution": "exp(1)"
+  },
+  {
+    "id": 7,
+    "theme": "Limite",
+    "enonce": "L = \\lim_{x \\to 0} \\frac{1 - \\cos(x)}{x^2}",
+    "solution": "1/2"
+  },
+  {
+    "id": 8,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{+\\infty} e^{-x} \\, dx",
+    "solution": "1"
+  },
+  {
+    "id": 9,
+    "theme": "Analyse",
+    "enonce": "L = \\lim_{n \\to +\\infty} (1 + \\frac{1}{n})^n",
+    "solution": "exp(1)"
+  },
+  {
+    "id": 10,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{\\pi/2} \\sin(x) \\cos(x) \\, dx",
+    "solution": "1/2"
+  },
+  {
+    "id": 11,
+    "theme": "Somme Géométrique",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{1}{2^n}",
+    "solution": "1"
+  },
+  {
+    "id": 12,
+    "theme": "Développement Limité",
+    "enonce": "L = \\lim_{x \\to 0} \\frac{\\sin(x) - x}{x^3}",
+    "solution": "-1/6"
+  },
+  {
+    "id": 13,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{1} \\frac{1}{1+x} \\, dx",
+    "solution": "ln(2)"
+  },
+  {
+    "id": 14,
+    "theme": "Limite",
+    "enonce": "L = \\lim_{x \\to 1} \\frac{x^2 - 1}{x - 1}",
+    "solution": "2"
+  },
+  {
+    "id": 15,
+    "theme": "Série",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{(-1)^{n-1}}{n}",
+    "solution": "ln(2)"
+  },
+  {
+    "id": 16,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{\\pi/4} \\tan(x) \\, dx",
+    "solution": "ln(2)/2"
+  },
+  {
+    "id": 17,
+    "theme": "Analyse",
+    "enonce": "L = \\lim_{x \\to 0} \\frac{\\arcsin(x)}{x}",
+    "solution": "1"
+  },
+  {
+    "id": 18,
+    "theme": "Série de Riemann",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{1}{n^2}",
+    "solution": "pi**2/6"
+  },
+  {
+    "id": 19,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{+\\infty} \\frac{1}{1+x^2} \\, dx",
+    "solution": "pi/2"
+  },
+  {
+    "id": 20,
+    "theme": "Limite",
+    "enonce": "L = \\lim_{x \\to 0} x \\ln(x)",
+    "solution": "0"
+  },
+  {
+    "id": 21,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{0}^{1} \\sqrt{1-x^2} \\, dx",
+    "solution": "pi/4"
+  },
+  {
+    "id": 22,
+    "theme": "Série",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{n}{2^n}",
+    "solution": "2"
+  },
+  {
+    "id": 23,
+    "theme": "Analyse",
+    "enonce": "L = \\lim_{x \\to 0} \\frac{\\cos(x) - 1 + x^2/2}{x^4}",
+    "solution": "1/24"
+  },
+  {
+    "id": 24,
+    "theme": "Intégration de Wallis",
+    "enonce": "I = \\int_{0}^{\\pi/2} \\sin^2(x) \\, dx",
+    "solution": "pi/4"
+  },
+  {
+    "id": 25,
+    "theme": "Limite",
+    "enonce": "L = \\lim_{x \\to 0} (1+x)^{1/x}",
+    "solution": "exp(1)"
+  },
+  {
+    "id": 26,
+    "theme": "Somme",
+    "enonce": "S = \\sum_{n=1}^{+\\infty} \\frac{1}{n(n+1)(n+2)}",
+    "solution": "1/4"
+  },
+  {
+    "id": 27,
+    "theme": "Intégration",
+    "enonce": "I = \\int_{1}^{e} \\ln(x) \\, dx",
+    "solution": "1"
+  },
+  {
+    "id": 28,
+    "theme": "Limite",
+    "enonce": "L = \\lim_{x \\to 0} \\frac{\\sqrt{1+x} - 1}{x}",
+    "solution": "1/2"
+  },
+  {
+    "id": 29,
+    "theme": "Série",
+    "enonce": "S = \\sum_{n=0}^{+\\infty} \\frac{2^n}{n!}",
+    "solution": "exp(2)"
+  }
+]
