@@ -121,7 +121,7 @@ with st.sidebar:
         st.caption("En attente de convergence... Soyez le premier !")
         
     st.caption("Abaqus-Style Math Engine")
-    st.caption("Créé par **Romain**")
+    st.caption("Créé par **Le meilleur stagiaire ;)**")
 
 st.title("🛠️ Analyse de Structure Mathématique")
 col_viz, col_input = st.columns([2, 1])
